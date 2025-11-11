@@ -1,0 +1,21 @@
+[
+  {
+    "video_path": "videos/video1.mp4",
+    "caption": "Check out this amazing video! #fyp #viral",
+    "schedule_time": "2024-01-15 14:30:00",
+    "privacy_level": "PUBLIC_TO_EVERYONE"
+  },
+  {
+    "video_path": "videos/video2.mp4",
+    "caption": "Another great video for you! #trending",
+    "schedule_time": "2024-01-15 18:00:00",
+    "privacy_level": "PUBLIC_TO_EVERYONE"
+  },
+  {
+    "video_path": "videos/video3.mp4",
+    "caption": "Don't miss this one! #foryou",
+    "schedule_time": "2024-01-16 10:00:00",
+    "privacy_level": "MUTUAL_FOLLOW_FRIENDS"
+  }
+]
+

@@ -1,0 +1,5 @@
+video_path,caption,schedule_time,privacy_level
+videos/video1.mp4,Check out this amazing video! #fyp #viral,2024-01-15 14:30:00,PUBLIC_TO_EVERYONE
+videos/video2.mp4,Another great video for you! #trending,2024-01-15 18:00:00,PUBLIC_TO_EVERYONE
+videos/video3.mp4,Don't miss this one! #foryou,2024-01-16 10:00:00,MUTUAL_FOLLOW_FRIENDS
+
